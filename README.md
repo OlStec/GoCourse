@@ -1,1 +1,1 @@
-"# GoCourse" 
+GoCourse
